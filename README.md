@@ -17,3 +17,7 @@ This project generates a console-based formatted HR report using SQL Server. It 
 ---
 
 ## Sample Output
+![report](https://github.com/ybalaji123/IBM-HR-report-using-SQL/blob/main/Screenshot%202025-06-23%20165332.png)
+
+# Created By
+Yemineni Balaji 
